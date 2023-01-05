@@ -353,6 +353,7 @@ footer {
   border: none;
   border-radius: 10px;
   color: #7f8081;
+  padding-left: 25px;
 }
 #newsletter button {
   padding: 14px 28px;
@@ -363,6 +364,7 @@ footer {
   border-radius: 10px;
   outline: none;
   border: none;
+  cursor: pointer;
 }
 #bottomfooter {
   height: 100px;
